@@ -1,0 +1,45 @@
+{
+    "room": "Virus Music #VirusArmy",
+    "author": "ᐯᎥᖇᑌᔕ",
+    "icon": null,
+    "css": "https://Repi1K97.github.io/Red/Style/Style.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#007FFF",
+        "ambassador": "#8ABF40",
+        "host": "#007FFF",
+        "cohost": "#007FFF",
+        "manager": "#007FFF",
+        "bouncer": "#007FFF",
+        "rdj": "#007FFF",
+        "subscriber": "#BF8840",
+        "silversubscriber": "#6C7F93",
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://Repi1K97.github.io/Red/Background/BGS26.jpg",
+        "playback": "https://Repi1K97.github.io/Red/Playback/PB2.png",
+        "admin": "https://Repi1K97.github.io/Red/Icons/admin.png",
+        "ambassador": "https://Repi1K97.github.io/Red/Icons/ambassador.png",
+        "host": "https://Repi1K97.github.io/Red/Icons/host.png",
+        "cohost": "https://Repi1K97.github.io/Red/Icons/cohost.png",
+        "manager": "https://Repi1K97.github.io/Red/Icons/manager.png",
+        "bouncer": "https://Repi1K97.github.io/Red/Icons/bouncer.png",
+        "rdj": "https://Repi1K97.github.io/Red/Icons/rdj.png",
+        "subscriber": "https://Repi1K97.github.io/Red/Icons/goldsubscriber.png",
+        "silversubscriber": "https://Repi1K97.github.io/Red/Icons/silversubscriber.png"
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
