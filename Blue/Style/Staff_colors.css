@@ -1,1 +1,575 @@
+/* ------------------------------------------------------------------ */
 
+.is-staff .name {
+    color: #007FFF;
+}
+
+#chat .from.staff .un {
+    color: #007FFF;
+}
+
+#user-lists .list.staff .group {
+    position: relative;
+    margin-top: 16px;
+    width: 100%;
+    height: 36px;
+    border-top: 1px solid #007FFF;
+    border-bottom: 1px solid #007FFF;
+    background: #000000;
+}
+
+#user-lists .list.staff .group:first-child {
+    margin-top: 0;
+    border-top: 1px solid #007FFF;
+}
+
+/* ------------------------------------------------------------------ */
+
+.is-admin .name { 
+    color: #007FFF; 
+}
+
+#chat .from.admin .un { 
+    color: #007FFF !important; 
+}
+
+.role-admin .from .un { 
+    color: #007FFF !important; 
+}
+
+#user-lists .list .is-admin .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user .name .icon-chat-admin + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-admin + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.admin { 
+    color: #007FFF !important; 
+}
+ 
+#chat .msg .text .name.admin .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-admin .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-admin .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-ambassador .info .role span { 
+    color: #007FFF !important; 
+}
+
+.user-content.profile .meta.is-ambassador .role span { 
+    color: #007FFF !important; 
+}
+
+#waitlist .is-admin .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-admin .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-admin .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-admin .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-admin .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-admin .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-admin .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+.is-ambassador .name { 
+    color: #8ABF40; 
+}
+
+#chat .from.ambassador .un { 
+    color: #8ABF40 !important; 
+}
+
+.role-ambassador .from .un { 
+    color: #8ABF40 !important; 
+}
+
+#user-lists .list .is-ambassador .name { 
+    color: #8ABF40 !important; 
+}
+
+#waitlist .list .user .name .icon-chat-ambassador + span { 
+    color: #8ABF40 !important; 
+}
+
+#footer-user .info .name .icon-chat-ambassador + span { 
+    color: #8ABF40 !important; 
+}
+
+#chat .msg .text .name.ambassador{ 
+    color: #8ABF40 !important; 
+}
+ 
+#chat .msg .text .name.ambassador .name { 
+    color: #8ABF40 !important; 
+}
+
+#user-rollover.role-ambassador .username { 
+    color: #8ABF40 !important; 
+}
+
+#user-rollover.role-ambassador .role span { 
+    color: #8ABF40 !important; 
+}
+
+#user-rollover.is-ambassador .info .role span { 
+    color: #8ABF40 !important; 
+}
+
+.user-content.profile .meta.is-ambassador .role span { 
+    color: #8ABF40 !important; 
+}
+
+#user-rollover.is-ambassador .meta.online .thumb {
+	border-color: hsl(85, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(85, 50%, 50%) !important;
+}
+
+#waitlist .is-ambassador .thumb {
+	border-color: hsl(85, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(85, 50%, 50%) !important;
+}
+
+#waitlist .role-ambassador .thumb {
+	border-color: hsl(85, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(85, 50%, 50%) !important;
+}
+
+#chat .cm.mention.is-ambassador .timestamp {
+	color: hsl(85, 50%, 50%);
+}
+
+#user-rollover.is-ambassador .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(85, 50%, 50%) !important;
+}
+
+#user-rollover.role-ambassador .thumb {
+	border-color: hsl(85, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(85, 50%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.host { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.host .name { 
+    color: #007FFF !important; 
+}
+
+.role-host .from .un { 
+    color: #007FFF; 
+}
+
+#user-lists .list.room .user.role-host .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user.role-host .name + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-host + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.host { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.host .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-host .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-host .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-host .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-host .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-host .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-host .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-host .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-host .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.cohost { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.cohost .name { 
+    color: #007FFF !important; 
+}
+
+.role-cohost .from .un { 
+    color: #007FFF; 
+}
+
+#user-lists .list.room .user.role-cohost .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user.role-cohost .name + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-cohost + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.cohost { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.cohost .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-cohost .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-cohost .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-cohost .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-cohost .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-cohost .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-cohost .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-cohost .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-cohost .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.manager { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.manager .name { 
+    color: #007FFF !important; 
+}
+
+.role-manager .from .un { 
+    color: #007FFF; 
+}
+
+#user-lists .list.room .user.role-manager .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user.role-manager .name + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-manager + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.manager { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.manager .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-manager .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-manager .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-manager .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-manager .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-manager .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-manager .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-manager .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-manager .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.bouncer { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.bouncer .name { 
+    color: #007FFF !important; 
+}
+
+.role-bouncer .from .un { 
+    color: #007FFF; 
+}
+
+#user-lists .list.room .user.role-bouncer .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user.role-bouncer .name + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-bouncer + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.bouncer { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.bouncer .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-bouncer .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-bouncer .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-bouncer .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-bouncer .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-bouncer .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-bouncer .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-bouncer .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-bouncer .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.dj { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.dj .name { 
+    color: #007FFF !important; 
+}
+
+.role-dj .from .un { 
+    color: #007FFF; 
+}
+
+#user-lists .list.room .user.role-dj .name { 
+    color: #007FFF !important; 
+}
+
+#waitlist .list .user.role-dj .name + span { 
+    color: #007FFF !important; 
+}
+
+#footer-user .info .name .icon-chat-dj + span { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.rdj { 
+    color: #007FFF !important; 
+}
+
+#chat .msg .text .name.rdj .name { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-dj .username { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.role-dj .role span { 
+    color: #007FFF !important; 
+}
+
+#user-rollover.is-dj .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-dj .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-dj .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-dj .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-dj .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-dj .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#user-rollover.is-staff .info .role span { 
+    color: #007FFF; 
+}
+
+.user-content.profile .meta.is-staff .role span { 
+    color: #007FFF; 
+}
+
+#user-rollover.is-staff .meta.online .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .is-staff .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#waitlist .role-staff .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+#user-rollover.is-staff .meta.online .thumb.large {
+	box-shadow: 0 0 15px hsl(210, 100%, 50%) !important;
+}
+
+#chat .cm.mention.is-staff .timestamp {
+	color: hsl(210, 100%, 50%);
+}
+
+#user-rollover.role-staff .thumb {
+	border-color: hsl(210, 100%, 50%) !important;
+	box-shadow: 0 0 7px hsl(210, 100%, 50%) !important;
+}
+
+/* ------------------------------------------------------------------ */
