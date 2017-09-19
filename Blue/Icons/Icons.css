@@ -1,1 +1,300 @@
+/* ------------------------------------------------------------------ */
 
+.icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/icon.png")
+}
+
+#room-bar .favorite .icon-grab {  
+  background: url('https://Virus.github.io/Blue/Icons/icon_grab.png');  
+}
+
+#dashboard .icon-grab {
+    background: transparent url('https://Virus.github.io/Blue/Icons/icon_grab.png') no-repeat scroll 0% 0%;
+}
+
+.icon-radiant-clearchat {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: url("https://Virus.github.io/Blue/Icons/icon_clearchat.png") !important;
+}
+
+.icon-radiant-rcsclearchat {
+    background: url("https://Virus.github.io/Blue/Icons/icon_rcsclearchat.png") !important;
+}
+
+#app-menu .android-badge {
+    width: 131px;
+    height: 45px;
+    margin-top: -7px;
+    background: url("https://Virus.github.io/Blue/Icons/icon_android.png") no-repeat;
+    background-size: 120px 40px;
+}
+
+#app-menu .iphone-badge {
+    width: 131px;
+    height: 45px;
+    margin-top: -7px;
+    background: url("https://Virus.github.io/Blue/Icons/icon_iphone.png") no-repeat;
+    background-size: 120px 40px;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-admin {
+    background: url("https://Virus.github.io/Blue/Icons/admin.png") !important;
+    background-position: center;
+}
+
+.message.from-admin > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/admin.png") !important;
+    background-position: center;
+}
+
+.emote.from-admin > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/admin.png") !important;
+    background-position: center;
+}
+
+.mention.from-admin > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/admin.png") !important;
+    background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-ambassador {
+    background: url("https://Virus.github.io/Blue/Icons/ambassador.png") !important;
+    background-position: center;
+}
+
+.message.from-ambassador > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/ambassador.png") !important;
+    background-position: center;
+}
+
+.emote.from-ambassador > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/ambassador.png") !important;
+    background-position: center;
+}
+
+.mention.from-ambassador > .icon {
+    background: url("https://Virus.github.io/Blue/Icons/ambassador.png") !important;
+    background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-host {		
+    background-image: url("https://Virus.github.io/Blue/Icons/host.png") !important;		
+    background-position: center;		
+}
+
+.message.from-host > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/host.png") !important;		
+    background-position: center;		
+}
+
+.emote.from-host > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/host.png") !important;		
+    background-position: center;		
+}
+
+.mention.from-host > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/host.png") !important;		
+    background-position: center;		
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-cohost {		
+    background-image: url("https://Virus.github.io/Blued/Icons/cohost.png") !important;		
+    background-position: center;		
+}
+
+.message.from-cohost > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/cohost.png") !important;		
+    background-position: center;		
+}
+
+.emote.from-cohost > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/cohost.png") !important;		
+    background-position: center;		
+}
+
+.mention.from-cohost > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/cohost.png") !important;		
+    background-position: center;		
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-manager {		
+    background-image: url("https://Virus.github.io/Blue/Icons/manager.png") !important;		
+    background-position: center;		
+}
+
+.message.from-manager > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/manager.png") !important;		
+    background-position: center;		
+}
+
+.emote.from-manager > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/manager.png") !important;		
+    background-position: center;		
+}
+
+.mention.from-manager > .icon {		
+    background-image: url("https://Virus.github.io/Blue/Icons/manager.png") !important;		
+    background-position: center;		
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-bouncer {
+    background-image: url("https://Virus.github.io/Blue/Icons/bouncer.png") !important;
+    background-position: center;
+}
+
+.message.from-bouncer > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/bouncer.png") !important;
+    background-position: center;
+}
+
+.emote.from-bouncer > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/bouncer.png") !important;
+    background-position: center;
+}
+
+.mention.from-bouncer > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/bouncer.png") !important;
+    background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-dj {
+    background-image: url("https://Virus.github.io/Blue/Icons/rdj.png") !important;
+    background-position: center;
+}
+
+.message.from-residentdj > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/rdj.png") !important;
+    background-position: center;
+}
+
+.emote.from-residentdj > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/rdj.png") !important;
+    background-position: center;
+}
+
+.mention.from-residentdj > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/rdj.png") !important;
+    background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-subscriber {
+    background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+    background-position: center;
+}
+
+.message.from-subscriber  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+    background-position: center;
+}
+
+.emote.from-subscriber  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+    background-position: center;
+}
+
+.mention.from-subscriber  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+    background-position: center;
+}
+
+#user-rollover .actions .giftsub i {
+	  background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+	  background-position: center;
+}
+
+#user-rollover .meta.subscriber .status i {
+	  background-image: url("https://Virus.github.io/Blue/Icons/goldsubscriber.png") !important;
+	  background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.icon-chat-subscriber.silver {
+    background-image: url("https://Virus.github.io/Blue/Icons/silversubscriber.png") !important;
+    background-position: center;
+}
+
+.message.from-subscriber.silver  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/silversubscriber.png") !important;
+    background-position: center;
+}
+
+.emote.from-subscriber.silver  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/silversubscriber.png") !important;
+    background-position: center;
+}
+
+.mention.from-subscriber.silver  > .icon {
+    background-image: url("https://Virus.github.io/Blue/Icons/silversubscriber.png") !important;
+    background-position: center;
+}
+
+#user-rollover .meta.subscriber.silver .status i {
+	  background-image: url("https://Virus.github.io/Blue/Icons/silversubscriber.png") !important;
+	  background-position: center;
+}
+
+/* ------------------------------------------------------------------ */
+
+.badge-box {
+	background: none !important;
+	-webkit-transition: all 1s ease; /* Safari and Chrome */
+	-moz-transition: all 1s ease; /* Firefox */
+	-o-transition: all 1s ease; /* IE 9 */
+	-ms-transition: all 1s ease; /* Opera */
+	transition: all 1s ease;
+}
+
+.badge-box.no-badge i {
+   background-image: url("https://Virus.github.io/Blue/Icons/icon_nobadge.png");
+   background-repeat: no-repeat;
+   background-size: 30px;
+   top: 0px;
+   left: 0px;
+   width: 30px;
+   height: 30px;
+   border: none;
+}
+
+#footer-user .buttons .button .no-badge {
+    background-image: url("https://Virus.github.io/Blue/Icons/icon_nobadge.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    top: 10px;
+    left: 20px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #0A0A0A;
+}
+
+.badge-box.no-badge i, #user-rollover.badge-box.no-badge i {
+   background-image: url("https://Virus.github.io/Blue/Icons/icon_nobadge.png");
+   background-repeat: no-repeat;
+   background-size: 30px;
+   top: 0px;
+   left: 0px;
+   width: 30px;
+   height: 30px;
+   border: none;
+}
+
+/* ------------------------------------------------------------------ */
