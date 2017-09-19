@@ -1,1 +1,198 @@
+/* ------------------------------------------------------------------ */
 
+#chat .msg .text .name.subscriber { 
+    color: #BF8840 !important; 
+}
+
+#chat .msg .text .name.subscriber .name { 
+    color: #BF8840 !important; 
+}
+
+#user-rollover.is-subscriber .info .role span { 
+    color: #BF8840 !important; 
+}
+
+.user-content.profile .meta.is-subscriber .role span { 
+    color: #BF8840 !important; 
+}
+
+.role-subscriber .from .un { 
+    color: #BF8840; 
+}
+
+.is-subscriber .name { 
+    color: #BF8840; 
+}
+
+#chat .from.subscriber .un { 
+    color: #BF8840 !important; 
+}
+
+#waitlist .list .user .name .icon-chat-subscriber + span { 
+    color: #BF8840 !important; 
+}
+
+#footer-user .info .name .icon-chat-subscriber + span { 
+    color: #BF8840 !important; 
+}
+
+#chat .msg .text .name.subscriber { 
+    color: #BF8840 !important; 
+}
+
+#chat .msg .text .name.subscriber .name { 
+    color: #BF8840 !important; 
+}
+
+
+#user-rollover.role-subscriber .thumb { 
+    border-color: #BF8840 !important; 
+}
+
+#user-rollover .meta.subscriber .status span { 
+    color: #BF8840 !important;
+}
+
+#user-rollover.is-subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+ #waitlist .is-subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+#user-rollover.role-subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+#waitlist .role-subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+#user-rollover .meta.subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+#waitlist .is-subscriber .thumb {
+	border-color: hsl(34, 50%, 50%) !important;
+	box-shadow: 0 0 7px hsl(34, 50%, 50%) !important;
+}
+
+#user-rollover .meta.subscriber .thumb.large {
+	box-shadow: 0 0 15px hsl(34, 50%, 50%) !important;
+}
+
+#chat .cm.mention.is-subscriber .timestamp {
+	color: hsl(34, 50%, 50%);
+}
+
+#user-rollover .actions .giftsub span { 
+    color: #BF8840 !important;
+}
+
+#user-store .grid .cell .price .label.only { 
+    color: #BF8840 !important;
+}
+
+.subscribe-button span { 
+    color: #BF8840 !important;
+}
+
+/* ------------------------------------------------------------------ */
+
+#chat .msg .text .name.subscriber.silver { 
+    color: #6C7F93 !important; 
+}
+
+#chat .msg .text .name.subscriber.silver .name { 
+    color: #6C7F93 !important; 
+}
+
+#user-rollover.is-subscriber .info .role span { 
+    color: #6C7F93 !important; 
+}
+
+.user-content.profile .meta.is-subscriber.silver .role span { 
+    color: #6C7F93 !important; 
+}
+
+.role-subscriber.silver .from .un { 
+    color: #6C7F93; 
+}
+
+.is-subscriber.silver .name { 
+    color: #6C7F93; 
+}
+
+#chat .from.subscriber.silver .un { 
+    color: #6C7F93 !important; 
+}
+
+#waitlist .list .user .name .icon-chat-subscriber.silver + span { 
+    color: #6C7F93 !important; 
+}
+
+#footer-user .info .name .icon-chat-subscriber.silver + span { 
+    color: #6C7F93 !important; 
+}
+
+#chat .msg .text .name.silversubscriber { 
+    color: #6C7F93 !important; 
+}
+
+#chat .msg .text .name.silversubscriber .name { 
+    color: #6C7F93 !important; 
+}
+
+#user-rollover.is-subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+ #waitlist .is-subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+#user-rollover.role-subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+#waitlist .role-subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+#user-rollover .meta.subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+#waitlist .is-subscriber.silver .thumb {
+	border-color: hsl(211, 15%, 50%) !important;
+	box-shadow: 0 0 7px hsl(211, 15%, 50%) !important;
+}
+
+#user-rollover .meta.subscriber.silver .thumb.large {
+	box-shadow: 0 0 15px hsl(211, 15%, 50%) !important;
+}
+
+#chat .cm.mention.is-subscriber.silver .timestamp {
+	color: hsl(211, 15%, 50%);
+}
+
+#user-rollover .meta.subscriber.silver .status i {
+    color: #6C7F93;
+}
+
+#user-rollover .meta.subscriber.silver .status span { 
+    color: #6C7F93 !important;
+}
+
+/* ------------------------------------------------------------------ */
