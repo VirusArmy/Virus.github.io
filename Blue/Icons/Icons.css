@@ -4,6 +4,10 @@
     background-image: url("https://Virus.github.io/Blue/Icons/icon.png")
 }
 
+#room-bar .icon-room {
+    background: url('https://Virus.github.io/Blue/Icons/icon_viruslogo.png') no-repeat;
+}
+
 #room-bar .favorite .icon-grab {  
   background: url('https://Virus.github.io/Blue/Icons/icon_grab.png');  
 }
