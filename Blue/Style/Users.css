@@ -1,1 +1,136 @@
+/* ------------------------------------------------------------------ */
 
+#user-rollover.id-30246070 .meta:before {
+    content: 'CSS';
+    top: 113px;
+    left: 105px;
+    position: absolute;
+    display: inline-block; 
+    padding: 0 3px;
+    color: #007FFF;
+    background: linear-gradient(rgba(0, 127, 255, 0.2), rgba(0, 127, 255, 0.2));
+    font-size: 10px;
+}
+
+#user-rollover.id-30246070 .meta:after {
+    content: 'Designer';
+    color: #007FFF;
+    position: absolute;
+    top: 110px;
+    left: 130px;
+}
+
+#chat [data-cid^='30246070-'] .un:after {
+    content: 'Room Designer';
+    border-style: solid;
+    border-color: #007FFF;
+    border-width: 1px;
+    font-size: 10px;
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0 2px;
+    color: #007FFF;
+    font-style: normal;
+}
+
+#user-lists .list .user.id-30246070 .name:after {
+    content: 'Room Designer';
+    border-style: solid;
+    border-color: #007FFF;
+    border-width: 1px;
+    font-size: 10px;
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0 2px;
+    color: #007FFF;
+    font-style: normal;
+}
+
+#user-rollover.id-30246070 .username:after {
+    content: 'Room Designer';
+    border-style: solid;
+    border-color: #007FFF;
+    border-width: 1px;
+    font-size: 10px;
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0 2px;
+    color: #007FFF;
+    font-style: normal;
+}
+
+#chat .cm[data-cid^="30496749-"] .un {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+[data-cid^="30496749"].cm .msg .from .un {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#user-lists .list.room .user.role-host.id-30496749 .name {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+[data-cid^="30496749"].cm:hover .msg .from .un  {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#user-lists .list .user.role-host.id-30496749:hover .name  {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+.id-30496749 > .msg > .from.host > .un {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#waitlist .list .user[data-uid="30496749"] .meta.is-host .name .icon-chat-host + span {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#user-rollover.id-30496749 > .info > .role span {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#user-rollover.id-30496749 > .meta > .username {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+#user-lists .list.room .user.id-30496749 .name {
+    color: rgb(0, 127, 255) !important;
+    text-shadow: 0px 0px 1px #007FFF, 0px 0px 1px #007FFF, 1px 1px 2px #007FFF !important;
+}
+
+.emote.id-30496749 .text {
+    color:  #007FFF !important;
+
+
+#chat .cm.message.id-30496749 {
+    border-left:  #FF0000 3px dotted !important;
+    border-right: #FF0000 3px dotted !important;
+}
+
+#chat .cm.emote.id-30496749 {
+    border-left:  #007FFF 3px dotted !important;
+    border-right: #007FFF 3px dotted !important;
+}
+
+#chat .cm.message.id-30496749:hover {
+    border-left-style:  solid !important;
+    border-right-style: solid !important;
+}
+
+#chat .cm.emote.id-30496749:hover {
+    border-left-style:  solid !important;
+    border-right-style: solid !important;
+}
+
+/* ------------------------------------------------------------------ */
