@@ -1,8 +1,8 @@
 {
     "room": "Virus Music #VirusArmy",
     "author": "ᐯᎥᖇᑌᔕ",
-    "icon": null,
-    "css": "https://Repi1K97.github.io/Red/Style/Style.css",
+    "icon": "https://Virus.github.io/Blue/Icons/icon_viruslogo.png",
+    "css": "https://Virus.github.io/Blue/Style/Style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -27,17 +27,17 @@
         "user": null
     },
     "images": {
-        "background": "https://Repi1K97.github.io/Red/Background/BGS26.jpg",
-        "playback": "https://Repi1K97.github.io/Red/Playback/PB2.png",
-        "admin": "https://Repi1K97.github.io/Red/Icons/admin.png",
-        "ambassador": "https://Repi1K97.github.io/Red/Icons/ambassador.png",
-        "host": "https://Repi1K97.github.io/Red/Icons/host.png",
-        "cohost": "https://Repi1K97.github.io/Red/Icons/cohost.png",
-        "manager": "https://Repi1K97.github.io/Red/Icons/manager.png",
-        "bouncer": "https://Repi1K97.github.io/Red/Icons/bouncer.png",
-        "rdj": "https://Repi1K97.github.io/Red/Icons/rdj.png",
-        "subscriber": "https://Repi1K97.github.io/Red/Icons/goldsubscriber.png",
-        "silversubscriber": "https://Repi1K97.github.io/Red/Icons/silversubscriber.png"
+        "background": "https://Virus.github.io/Blue/Background/BGS98.jpg",
+        "playback": "https://Virus.github.io/Blue/Playback/PB12.png",
+        "admin": "https://Virus.github.io/Blue/Icons/admin.png",
+        "ambassador": "https://Virus.github.io/Blue/Icons/ambassador.png",
+        "host": "https://Virus.github.io/Blue/Icons/host.png",
+        "cohost": "https://Virus.github.io/Blue/Icons/cohost.png",
+        "manager": "https://Virus.github.io/Blue/Icons/manager.png",
+        "bouncer": "https://Virus.github.io/Blue/Icons/bouncer.png",
+        "rdj": "https://Virus.github.io/Blue/Icons/rdj.png",
+        "subscriber": "https://Virus.github.io/Blue/Icons/goldsubscriber.png",
+        "silversubscriber": "https://Virus.github.io/Blue/Icons/silversubscriber.png"
     },
     "emotes": {
     	"emote_name": null
